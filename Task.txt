@@ -1,0 +1,5 @@
+| S.NO | Name | Subject | Marks |
+| ---- | --:  | :--     |  :-:  |
+| 1    | aaaa | xxxx | 34 |
+| 2 | bbbb | yyyy | 45 |
+| 3 | cccc | zzzz | 67 |
